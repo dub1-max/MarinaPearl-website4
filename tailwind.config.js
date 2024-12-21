@@ -149,7 +149,7 @@ module.exports = {
       },
       backgroundImage: {
         'gradient-lightgreen-darkgreen': 'linear-gradient(90deg, rgba(4,99,6,1) 10%, rgba(168,228,145,1) 46%, rgba(148,228,143,0.20780812324929976) 92%);',
-        "green-dark":"radial-gradient(circle, hsla(123, 88.40%, 23.70%, 0.99) 0%, rgba(0,0,0,0.9389005602240896) 100%);"
+        "green-dark":"radial-gradient(circle, rgb(27, 225, 212) 10%, rgb(1, 7, 10) 100%, rgba(0,212,255,1) 100%, rgb(1, 17, 20) 100%);"
       },
     },
   },
