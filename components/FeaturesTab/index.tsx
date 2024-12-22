@@ -101,7 +101,7 @@ const FeaturesTab = () => {
               </div>
               <div className="md:w-3/5 lg:w-auto">
                 <button className="text-sm font-medium text-black dark:text-white xl:text-regular">
-                 Our Vision in Connecting Mind?
+                 Our Vision in Marina Pearl?
                 </button>
               </div>
             </div>
