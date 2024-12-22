@@ -22,7 +22,7 @@ const featuresTabData: FeatureTab[] = [
   {
     id: "tabThree",
     title: "Our Vision",
-    desc1: `At Connecting Minds, our mission is to create vibrant and flexible workspaces that empower businesses in Dubai to flourish. We are dedicated to cultivating a dynamic environment where entrepreneurs, startups, and established enterprises can collaborate, innovate, and achieve their goals.`,
+    desc1: `At Marina Pearl, our mission is to create vibrant and flexible workspaces that empower businesses in Dubai to flourish. We are dedicated to cultivating a dynamic environment where entrepreneurs, startups, and established enterprises can collaborate, innovate, and achieve their goals.`,
     desc2: `Join us and elevate your business experience in one of the world's most exciting cities!`,
     image: "/images/features/features-light-01.png",
     imageDark: "/images/features/features-dark-01.svg",

@@ -85,7 +85,7 @@ const About = () => {
                 </div>*/}
                 <div className="w-3/4">
                   <h3 className="mb-0.5 text-metatitle2 text-black dark:text-white">
-                  WHY CHOOSE CONNECTING MINDS?
+                  WHY CHOOSE Marina Pearl?
                   </h3>
                   <br></br>
                   <p> <b>Flexibility:</b> <br></br>   We understand that flexibility is key in the business
@@ -144,7 +144,7 @@ const About = () => {
                 </span>
               </h2>
               <p>
-              Convenience meets sophistication as Connecting Minds is strategically
+              Convenience meets sophistication as Marina Pearl is strategically
               located in City Center Garhoud, providing easy access to major
               business and commercial landmarks. Our central position
               ensures that you are always well-connected, making business

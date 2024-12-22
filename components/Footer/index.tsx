@@ -46,7 +46,7 @@ const Footer = () => {
                 </a>
 
                 <p className="mb-10 mt-5 hover:text-black">
-                Connecting Minds Business centers and many more
+                Marina Pearl Business centers and many more
                 </p>
 
                 <p className="mb-1.5 text-sectiontitle uppercase tracking-[5px]">
@@ -301,7 +301,7 @@ const Footer = () => {
               className="animate_top"
             >
               <p>
-                &copy; {new Date().getFullYear()} Connecting Minds | BusinessCenters. All rights reserved
+                &copy; {new Date().getFullYear()} Marina Pearl | BusinessCenters. All rights reserved
               </p>
             </motion.div>
 
