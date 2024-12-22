@@ -30,33 +30,33 @@ const Footer = () => {
               >
                 <a href="/" className="relative">
                   <Image
-                    width={110}
-                    height={80}
-                    src="/images/logo/logo-light.svg"
+                    width={40}
+                    height={8}
+                    src="/images/logo/cm.png"
                     alt="Logo"
                     className="dark:hidden"
                   />
                   <Image
-                    width={110}
-                    height={80}
-                    src="/images/logo/logo-dark.svg"
+                    width={40}
+                    height={8}
+                    src="/images/logo/cm.png"
                     alt="Logo"
                     className="hidden dark:block"
                   />
                 </a>
 
-                <p className="mb-10 mt-5">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                <p className="mb-10 mt-5 hover:text-black">
+                Connecting Minds Business centers and many more
                 </p>
 
                 <p className="mb-1.5 text-sectiontitle uppercase tracking-[5px]">
-                  contact
+                  Contact
                 </p>
                 <a
                   href="#"
                   className="text-itemtitle font-medium text-black dark:text-white"
                 >
-                  hello@solid.com
+                  bizspace@gmail.com
                 </a>
               </motion.div>
 
@@ -142,7 +142,7 @@ const Footer = () => {
                   </h4>
 
                   <ul>
-                    <li>
+                    {/*<li>
                       <a
                         href="#"
                         className="mb-3 inline-block hover:text-primary"
@@ -157,7 +157,7 @@ const Footer = () => {
                       >
                         Press media
                       </a>
-                    </li>
+                    </li>*/}
                     <li>
                       <a
                         href="#"
@@ -169,7 +169,7 @@ const Footer = () => {
                     <li>
                       <a
                         href="#"
-                        className="mb-3 inline-block hover:text-black"
+                        className="mb-3 inline-block hover:text-primary"
                       >
                         Contact Us
                       </a>
@@ -195,10 +195,10 @@ const Footer = () => {
                   viewport={{ once: true }}
                   className="animate_top"
                 >
-                  <h4 className="mb-9 text-itemtitle2 font-medium text-black dark:text-white">
+                  <h4 className="mb-9 text-itemtitle2 font-medium text-black dark:text-white ">
                     Newsletter
                   </h4>
-                  <p className="mb-4 w-[90%]">
+                  <p className="mb-4 w-[90%] hover:text-primary">
                     Subscribe to receive future updates
                   </p>
 
@@ -301,7 +301,7 @@ const Footer = () => {
               className="animate_top"
             >
               <p>
-                &copy; {new Date().getFullYear()} BizSpace | BusinessCenters. All rights reserved
+                &copy; {new Date().getFullYear()} Connecting Minds | BusinessCenters. All rights reserved
               </p>
             </motion.div>
 

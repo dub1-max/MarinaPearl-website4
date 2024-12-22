@@ -61,45 +61,49 @@ const About = () => {
             >
               <span className="font-medium uppercase text-black dark:text-white">
                 <span className="mb-4 mr-4 inline-flex rounded-full bg-meta px-4.5 py-1 text-metatitle uppercase text-white ">
-                  New
+                  AT
                 </span>{" "}
-                SaaS Boilerplate for Next.js
+                GARHOUD
               </span>
               <h2 className="relative mb-6 text-3xl font-bold text-black dark:text-white xl:text-hero">
-                A Complete Solution for
+                
                 <span className="relative inline-block before:absolute before:bottom-2.5 before:left-0 before:-z-1 before:h-3 before:w-full before:bg-titlebg dark:before:bg-titlebgdark">
-                  SaaS Startup
+                Connecting  Minds
                 </span>
               </h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
-                ultricies lacus non fermentum ultrices. Fusce consectetur le.
+              At Connecting  Minds we offer flexible office solutions, including fully-equipped offices, virtual
+              offices with a prestigious address, and collaborative flexi desks. Elevate your business
+              with our prime location and professional support.
               </p>
 
               <div className="mt-7.5 flex items-center gap-5">
-                <div className="flex h-15 w-15 items-center justify-center rounded-[50%] border border-stroke dark:border-strokedark dark:bg-blacksection">
+                {/*<div className="flex h-15 w-15 items-center justify-center rounded-[50%] border border-stroke dark:border-strokedark dark:bg-blacksection">
                   <p className="text-metatitle2 font-semibold text-black dark:text-white">
                     01
                   </p>
-                </div>
+                </div>*/}
                 <div className="w-3/4">
                   <h3 className="mb-0.5 text-metatitle2 text-black dark:text-white">
-                    React 18, Next.js 13 and TypeScript
+                  WHY CHOOSE CONNECTING MINDS?
                   </h3>
-                  <p>Ut ultricies lacus non fermentum ultrices.</p>
+                  <br></br>
+                  <p> <b>Flexibility:</b> <br></br>   We understand that flexibility is key in the business
+                  world. Choose a plan that suits your unique requirements, whether
+                  it's a private office, virtual office, or a flexible desk</p>
                 </div>
               </div>
               <div className="mt-7.5 flex items-center gap-5">
-                <div className="flex h-15 w-15 items-center justify-center rounded-[50%] border border-stroke dark:border-strokedark dark:bg-blacksection">
+                {/*<div className="flex h-15 w-15 items-center justify-center rounded-[50%] border border-stroke dark:border-strokedark dark:bg-blacksection">
                   <p className="text-metatitle2 font-semibold text-black dark:text-white">
                     02
                   </p>
-                </div>
+                </div>*/}
                 <div className="w-3/4">
-                  <h3 className="mb-0.5 text-metatitle2 text-black dark:text-white">
-                    Fully Customizable
-                  </h3>
-                  <p>consectetur adipiscing elit fermentum ultricies.</p>
+            
+                  <p><b>State-of-the-Art Facilities:</b> <br></br>Our business center is equipped with
+                  the latest technology, ergonomic furniture, and modern amenities
+                  to enhance your work experience.</p>
                 </div>
               </div>
             </motion.div>
@@ -131,17 +135,21 @@ const About = () => {
               className="animate_left md:w-1/2"
             >
               <h4 className="font-medium uppercase text-black dark:text-white">
-                Launch Your SaaS Fast
               </h4>
               <h2 className="relative mb-6 text-3xl font-bold text-black dark:text-white xl:text-hero">
-                Packed with All Essential {"   "}
+              Prime
+              Location: {"   "}
                 <span className="relative inline-block before:absolute before:bottom-2.5 before:left-0 before:-z-1 before:h-3 before:w-full before:bg-titlebg2 dark:before:bg-titlebgdark">
-                  Integrations
+                  Garhoud
                 </span>
               </h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
-                ultricies lacus non fermentum ultrices. Fusce consectetur le.
+              Convenience meets sophistication as Connecting Minds is strategically
+              located in City Center Garhoud, providing easy access to major
+              business and commercial landmarks. Our central position
+              ensures that you are always well-connected, making business
+              meetings, networking, and commuting a breeze.
+
               </p>
               <div>
                 <a

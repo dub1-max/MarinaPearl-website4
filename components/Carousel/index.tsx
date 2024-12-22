@@ -35,9 +35,9 @@ export default function Carousel({
         <div className="animate_top mx-auto text-center">
           <SectionHeader
             headerInfo={{
-              title: `GALLERY`,
+              title: `CAROUSEL`,
               subtitle: `Gallery`,
-              description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam ante in maximus.`,
+              description: ``,
             }}
           />
         </div>
