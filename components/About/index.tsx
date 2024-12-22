@@ -63,7 +63,7 @@ const About = () => {
                 <span className="mb-4 mr-4 inline-flex rounded-full bg-meta px-4.5 py-1 text-metatitle uppercase text-white ">
                   AT
                 </span>{" "}
-                GARHOUD
+                SHEIKHZAYED
               </span>
               <h2 className="relative mb-6 text-3xl font-bold text-black dark:text-white xl:text-hero">
                 
@@ -140,12 +140,12 @@ const About = () => {
               Prime
               Location: {"   "}
                 <span className="relative inline-block before:absolute before:bottom-2.5 before:left-0 before:-z-1 before:h-3 before:w-full before:bg-titlebg2 dark:before:bg-titlebgdark">
-                  Garhoud
+                Sheikh Zayed
                 </span>
               </h2>
               <p>
               Convenience meets sophistication as Marina Pearl is strategically
-              located in City Center Garhoud, providing easy access to major
+              located in City Center Sheikh Zayed, providing easy access to major
               business and commercial landmarks. Our central position
               ensures that you are always well-connected, making business
               meetings, networking, and commuting a breeze.
