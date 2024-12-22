@@ -85,7 +85,7 @@ const About = () => {
                 </div>*/}
                 <div className="w-3/4">
                   <h3 className="mb-0.5 text-metatitle2 text-black dark:text-white">
-                  WHY CHOOSE Marina Pearl?
+                  WHY CHOOSE MARINA PEARL?
                   </h3>
                   <br></br>
                   <p> <b>Flexibility:</b> <br></br>   We understand that flexibility is key in the business
